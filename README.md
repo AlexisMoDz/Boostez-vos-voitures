@@ -4,6 +4,8 @@
 2) start votre fichier: start boostvoiture
 
 # ########################################################################
+[MODIFICATION]
+  ```lua
   Citizen.CreateThread(function()
    while true do
     Citizen.Wait(0)
@@ -13,10 +15,10 @@
      end
    end
  end)
- 
+ ```
 # Vous avez juste à remplacer le "Nom de la voiture" par le nom de la voiture que vous voulez boost
 # Un exemple :
-
+```lua
   Citizen.CreateThread(function()
    while true do
     Citizen.Wait(0)
@@ -26,6 +28,6 @@
      end
    end
  end)
- 
+ ```
  
 # Et le 2.5 vosu le changez en ce que vous voulez, il faut savoir que plus vous augmentez ce chiffre, plus la voiture ira vite, 2.5 c'est # deja tres bien !
