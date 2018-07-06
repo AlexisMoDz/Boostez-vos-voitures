@@ -1,7 +1,14 @@
 # Ceci est un script pour booster vos voitures IG
 [INSTALLATION]
 1) Mettre le fichier "boostvoiture" dans votre dossier resource [../fxserver/resource]
-2) start votre fichier: start boostvoiture
+2) start votre fichier: 
+```
+start boostvoiture
+```
+
+```
+git clone https://github.com/AlexisMoDz/Boostez-vos-voitures
+```
 
 # ########################################################################
 [MODIFICATION]
